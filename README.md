@@ -7,13 +7,6 @@
 
 I'm a passionate developer with a love for coding and problem-solving. This GitHub profile showcases my projects and contributions to the open-source community.
 
-## Projects
-
-Here are some of my notable projects:
-
-- [Project 1](link/to/project1): A brief description of Project 1.
-- [Project 2](link/to/project2): A brief description of Project 2.
-- [Project 3](link/to/project3): A brief description of Project 3.
 
 ## Skills
 
