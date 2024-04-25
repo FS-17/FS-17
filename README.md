@@ -10,10 +10,12 @@ I'm a passionate developer with a love for coding and problem-solving. This GitH
 
 ## Skills
 
-- Programming Languages: Python, JavaScript, dart, C++
-- Web Development: Flask, Node.js, Flutter
-- Databases: SQL, MongoDB
-- Tools & Technologies: Git, Docker, AWS
+- Programming Languages:  <br />
+![Programming Languages](https://skillicons.dev/icons?i=python,dart,cpp,mysql,js,html,css&perline=6)
+- Frameworks:<br />
+![Frameworks](https://skillicons.dev/icons?i=flutter,flask,nodejs,bootstrap&perline=6)
+- Tools:<br />
+![Tools](https://skillicons.dev/icons?i=github,vscode,aws,bash,cloudflare,docker,mongodb)
 
 ## Contact Me
 
