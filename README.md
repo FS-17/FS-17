@@ -17,6 +17,16 @@ I'm a passionate developer with a love for coding and problem-solving. This GitH
 - Tools:<br />
 ![Tools](https://skillicons.dev/icons?i=github,vscode,aws,bash,cloudflare,docker,mongodb)
 
+
+### Satr Badge
+
+I'm currently ranked 22nd worldwide on the SATR platform. SATR is a platform that hosts programming challenges and competitions. Click on the badge below to view my profile and achievements on SATR
+
+
+[![SATR](https://github.com/FS-17/FS-17/blob/main/assets/satr.png?raw=true)](https://profile.satr.codes/fs-17/public/overview)
+
+
+
 ## Contact Me
 
 Feel free to reach out to me on Telegram for collaboration, job opportunities, or any other inquiries.
