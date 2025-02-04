@@ -20,12 +20,7 @@ I'm a passionate developer with a love for coding and problem-solving. This GitH
 
 ### Satr Badge
 
-I'm currently ranked 14nd worldwide on the SATR platform. SATR is a platform that hosts programming challenges and competitions. Click on the badge below to view my profile and achievements on SATR
-
-
-[![SATR](https://github.com/FS-17/FS-17/blob/main/assets/satr.png?raw=true)](https://profile.satr.codes/fs-17/public/overview)
-
-
+I'm currently ranked 10nd worldwide on the SATR platform. SATR is a platform that hosts programming challenges and competitions. Click on the badge below to view my profile and achievements on SATR
 
 ## Contact Me
 
